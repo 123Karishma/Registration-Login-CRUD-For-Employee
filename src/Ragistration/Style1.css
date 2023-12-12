@@ -1,0 +1,21 @@
+.backbody{  
+    background-image: url("https://cutewallpaper.org/21/animation-hd-wallpaper/Minions-2015-animated-film-hd-wallpapers-Volganga.jpg");
+    min-height: 100vh;
+    background-size: 110vw 110vh;
+    background-repeat: no-repeat;
+    justify-content: center
+};
+.button{
+    border: radius 2px;
+}
+.Topper{
+    margin-left: 10%;
+    color:#73C6B6;
+    margin-top: 4%;
+    font-family: Arial
+}
+.avtar{
+    text-align: center;
+    margin-left: 25%
+
+}
